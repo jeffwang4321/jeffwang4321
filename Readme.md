@@ -1,6 +1,6 @@
-# Hi there, I'm [Jeff Wang][website] 👋 
+## Hi there, I'm [Jeff Wang][website] 👋 
 
-## I'm a Computer Science Undergrad & Software Developer
+### I'm a Computer Science Undergrad & Software Developer
 
 - 🌐 My personal portfolio [Website][website]
 - ✅ I just published my first app [MiniTasks](https://github.com/jeffwang4321/minitasks)!
