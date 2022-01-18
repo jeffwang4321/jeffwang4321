@@ -3,7 +3,7 @@
 ## I'm a Computer Science Undergrad & Software Developer
 
 - 🌐 My personal portfolio [Website][website]
-- ✅ I just launched my first app [MiniTasks](https://github.com/jeffwang4321/minitasks)!
+- ✅ I just published my first app [MiniTasks](https://github.com/jeffwang4321/minitasks)!
 - 🎮 My first multiplayer game [IO Games](https://github.com/jeffwang4321/IO-Games)
 - 🥅 2022 Goal: Contribute more to open source projects
 - ⚡ Fun fact: I love to draw and play tennis
@@ -12,8 +12,6 @@
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=Joplin&logoColor=white" />][website] 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
-
-<br />
 
 ### Languages and Tools:
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -58,15 +56,8 @@
 <!-- <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" /> -->
 <!-- <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" /> -->
 
-
-
-
-
 <br />
 <br />
-<br />
-<br />
-
 
 [![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffwang4321&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
