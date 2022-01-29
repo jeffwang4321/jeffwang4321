@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science Undergrad & Software Developer
 
-- 🌐 My personal portfolio [Website][website]
+- 🌐 My personal portfolio [Website](https://github.com/jeffwang4321/react-portfolio)
 - ✅ I just published my first app [MiniTasks](https://github.com/jeffwang4321/minitasks)!
 - 🎮 My first multiplayer game [IO Games](https://github.com/jeffwang4321/IO-Games)
 - ⚡ I love to design graphics and play tennis
