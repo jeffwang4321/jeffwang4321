@@ -1,4 +1,4 @@
-## Hi there, I'm [Jeff Wang][website] 👋 
+## Hello World, I'm Jeff Wang 👋 
 
 ### I'm a Computer Science Undergrad & Software Developer
 
