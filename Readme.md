@@ -86,7 +86,7 @@
 <br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffwang4321&repo=react-portfolio)](https://github.com/jeffwang4321/react-portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffwang4321&repo=minitasks)](https://github.com/jeffwang4321/minitasks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffwang4321&repo=IO-Games)](https://github.com/jeffwang4321/IO-Games)
 
 [![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffwang4321&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
