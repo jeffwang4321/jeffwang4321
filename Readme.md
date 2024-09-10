@@ -13,8 +13,8 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
-<details>
-<summary><h3>Languages and Tools:</h3></summary>
+
+<h3>Languages and Tools:</h3>
 <!-- programming languages -->
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="pandas" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png?20200210000431" />
@@ -82,7 +82,7 @@
 <br />
 <br />
 <br />
-</details>
+
 <br />
 
 
