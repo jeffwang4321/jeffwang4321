@@ -17,7 +17,7 @@
 <h3>Languages and Tools:</h3>
 <!-- programming languages -->
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="pandas" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png?20200210000431" />
+<img align="left" alt="pandas" width="30px" height="30px" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" />
 <img align="left" alt="numpy" width="30px" src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png" />
 <img align="left" alt="c" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img align="left" alt="cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
@@ -86,8 +86,8 @@
 <br />
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffwang4321&repo=IO-Games)](https://github.com/jeffwang4321/IO-Games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeffwang4321&repo=react-portfolio)](https://github.com/jeffwang4321/react-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jeffwang4321&repo=IO-Games)](https://github.com/jeffwang4321/IO-Games)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jeffwang4321&repo=react-portfolio)](https://github.com/jeffwang4321/react-portfolio)
 
 
 
