@@ -86,8 +86,10 @@
 <br />
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jeffwang4321&repo=IO-Games)](https://github.com/jeffwang4321/IO-Games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jeffwang4321&repo=react-portfolio)](https://github.com/jeffwang4321/react-portfolio)
+[![IO-Games Repo Card](https://vercel.app)](https://github.com/jeffwang4321/IO-Games)
+[![IO-Games Repo Card](https://githubcard.com)](https://github.com/jeffwang4321/IO-Games)
+[![IO-Games Repo Card](https://vercel.app)](https://github.com/jeffwang4321/react-portfolio)
+[![IO-Games Repo Card](https://githubcard.com)](https://github.com/jeffwang4321/react-portfolio)
 
 
 
